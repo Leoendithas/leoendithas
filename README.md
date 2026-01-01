@@ -6,6 +6,13 @@ Nice to e-meet you!
 
 ---
 
+### ⭐ Featured (AI PM portfolio)
+- 📘 **AI PM Case Studies:** https://github.com/Leoendithas/AI-PM-Case-Studies
+- 🧪 **LLM Eval Playbook:** https://github.com/Leoendithas/llm_eval_playbook
+- 🎙️ **Lumina (voice facilitator prototype):** https://github.com/adoreblvnk/lumina
+
+---
+
 ### 🏗️ What I do
 At MOE, I work across product, data, design, and engineering to ship classroom-facing AI features end-to-end:
 
